@@ -1,2 +1,1 @@
-freeuser
-freepass
+freeuser:freepass
